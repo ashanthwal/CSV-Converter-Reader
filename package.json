@@ -1,0 +1,16 @@
+{
+  "name": "thinkific",
+  "version": "1.0.0",
+  "description": "Take home assignment for Thinkific Coop",
+  "main": "assignment.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ash",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "node-fetch": "^3.0.0"
+  }
+}
